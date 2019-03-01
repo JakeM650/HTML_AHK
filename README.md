@@ -1,10 +1,12 @@
-# HTML AutoHotKey Tools
+# HTML AutoHotKey Tools - HTML HotString Compelete
 
 Shortcuts for typing HTML tags because I am lazy.
 
- Example: turns `<body>` into `<body></body>`
-                `<h1>` into `<h1></h1>`
-                `<img>` into `<img src=""></img>`
+User Type | HotString Compelete
+--- | ---
+`<body>` | `<body></body>`
+`<h1>` | `<h1></h1>`
+`<img>` | `<img src=""></img>`
 
 #### Usage (If you really don't know what you're doing):
   1. [Download AutoHotKey](https://www.autohotkey.com/)
