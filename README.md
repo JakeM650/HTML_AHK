@@ -2,7 +2,7 @@
 
 Shortcuts for typing HTML tags because I am lazy.
 
-Example: <body> turns into <body></body>
+ Example: turns `<body>` into `<body></body>`
 
 #### Usage (If you really don't know what you're doing):
   1. [Download AutoHotKey](https://www.autohotkey.com/)
