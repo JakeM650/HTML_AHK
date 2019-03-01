@@ -1,5 +1,5 @@
 # HTML AutoHotKey Tools - HTML HotString Compelete
-###### Updated: 2/28/19   Uploaded: 2/28/19
+###### Updated: 2/28/19 - Uploaded: 2/28/19
 Shortcuts for typing HTML tags because I am lazy.
 
 User Type | HotString Compelete
