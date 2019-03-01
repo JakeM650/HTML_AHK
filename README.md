@@ -1,5 +1,7 @@
 # HTML AutoHotKey Tools
 
+Shortcuts for typing HTML tags because I am lazy.
+
 #### Usage (If you really don't know what you're doing):
   1. [Download AutoHotKey](https://www.autohotkey.com/)
   2. Once installed right click on your desktop and create a new AutHotKey Script.
