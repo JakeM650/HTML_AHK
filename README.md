@@ -4,9 +4,14 @@ Shortcuts for typing HTML tags because I am lazy.
 
 User Type | HotString Compelete
 --- | ---
+`<head>` | `<head></head>`
 `<body>` | `<body></body>`
+`<footer>` | `<footer></footer>`
+`<div>` | `<div></div>`
+`<p>` | `<p></p>`
 `<h1>` | `<h1></h1>`
 `<img>` | `<img src=""></img>`
+
 
 #### Usage (If you really don't know what you're doing):
   1. [Download AutoHotKey](https://www.autohotkey.com/)
